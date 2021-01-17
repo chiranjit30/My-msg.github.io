@@ -1,0 +1,52 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url("al.jpeg");
+
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
+}
+.open{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+    color: rgba(2, 2, 34, 0.534);
+}
+.text{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 45px;
+    color: rgba(214, 3, 14, 0.534);
+    display: none;
+
+}
+.n{
+    color:gold;
+    font-family: 'Courgette', cursive;
+    font-family: 'Lobster Two', cursive;
+
+}
+.bo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    
+    
+}
+#bot{
+    font-size:30px;
+    background-color: #4CAF50;
+    color:floralwhite;
+    border-radius: 30px;
+    cursor: pointer;
+}
+   
